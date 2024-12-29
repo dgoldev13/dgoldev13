@@ -14,8 +14,8 @@ Some information about me:
 - ⚡ Fun Fact: I love sports and I like to spend hours practicing, my favorite sports are: Football, Jiu-Jitsu, Muay Thai, Basketball and MotoGP.
 
 ## Tools and technologies
-
-
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="40" height="40"/>
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="40" height="40"/>
   
 ## I am learning
 
